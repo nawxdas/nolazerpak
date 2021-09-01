@@ -1,2 +1,0 @@
-# nolazerpak
-Begin app
